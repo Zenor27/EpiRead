@@ -1,8 +1,9 @@
 EPIREAD!
 ===================
 
-EPITA S3 project made by Atomic Corp. / Project proposed by burell_m
-Members :  
+EPITA S3 project made by Atomic Corp. / Project proposed by burell_m. 
+
+Members :
 * antoine.montes (MONTES Antoine)
 * romain.wallez (WALLEZ Romain)
 * gauthier.fiorentino (FIORENTINO Gauthier)
