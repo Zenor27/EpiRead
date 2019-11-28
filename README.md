@@ -11,7 +11,7 @@ Members :
 
 How to use EpiRead.
 -------------
-**First type make in your terminal  **                             
+First type make in your terminal !                             
 > - ./main without args to launch GUI                           
 > - ./main (command) to use the program 
 > - ./main --help to show commands 
